@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 /**
  * It counts the positive number in the array
  */ 
